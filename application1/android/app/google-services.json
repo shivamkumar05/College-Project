@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487939350361",
+    "project_id": "khoz-1",
+    "storage_bucket": "khoz-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487939350361:android:b33f4408284cd7f8c43648",
+        "android_client_info": {
+          "package_name": "com.example.application1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487939350361-ai5d4frt3ilv64ssf5o2pf5r9n4qjm3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0fvxk8YIOQLZbHFdxR5t-WPNfiSMLTno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487939350361-ai5d4frt3ilv64ssf5o2pf5r9n4qjm3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
