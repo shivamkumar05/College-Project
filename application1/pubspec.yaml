@@ -39,6 +39,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   carousel_slider:
   searchbar_animation: ^0.0.4
+  firebase_core: ^2.9.0
+  firebase_auth: ^4.4.1
+  firebase_storage: ^11.1.0
+  cloud_firestore: ^4.5.1
+  fluttertoast: ^8.2.1
 
 dev_dependencies:
   flutter_test:
